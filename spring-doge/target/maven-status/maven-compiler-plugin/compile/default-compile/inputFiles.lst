@@ -1,0 +1,8 @@
+/usr/src/spring-doge/spring-doge/src/main/java/doge/service/DogeService.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/Application.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/ServletInitializer.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/domain/DogePhoto.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/domain/DogePhotoRepository.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/domain/UserRepository.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/domain/User.java
+/usr/src/spring-doge/spring-doge/src/main/java/doge/controller/UsersRestController.java
